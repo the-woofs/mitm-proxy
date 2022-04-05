@@ -1,4 +1,3 @@
-from http import server
 from mitmproxy import ctx
 
 
